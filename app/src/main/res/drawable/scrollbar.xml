@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-->obtained after search for coloring scroll bar indicator
+from this site :http://stackoverflow.com/questions/3071068/change-scrollbar-color-in-android
+first answer comment by: CelticParser  <-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+    <gradient android:angle="0"
+        android:endColor="#6699FF"
+        android:startColor="#3333FF" />
+    <corners android:radius="1dp" />
+    <size android:width="4dp" />
+</shape>

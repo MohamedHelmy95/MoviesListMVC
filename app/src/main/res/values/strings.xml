@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MoviesList</string>
+    <string name="Appi_key">a78c901a2e6833523e55ca74fab176d2</string>
+    <string name="action_popular">Popular</string>
+    <string name="action_top_rated">Top_Rated</string>
+    <string name="action_favorites">Favorites</string>
+    <string name="releasedate" >ReleaseDate:</string>
+    <string name="over" >OverView: </string>
+    <string name="rate" >AverageRate: </string>
+    <string name="trial" >Videos(Trailers&amp;Teasers): </string>
+    <string name="rev" >Reviews: </string>
+    <string name="auth" >Author: </string>
+    <string name="cont" >Content: </string>
+    <string name="title_activity_movie__detail">Movie_Detail</string>
+
+</resources>
